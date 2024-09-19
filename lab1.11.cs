@@ -1,16 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace DikshyaShahi_Lab1_
 {
     internal class lab11
     {
        static void Main(string[] args)
         {
-            // Input matrix dimensions
             Console.Write("Enter the number of rows for Matrix A: ");
             int rowsA = int.Parse(Console.ReadLine());
 

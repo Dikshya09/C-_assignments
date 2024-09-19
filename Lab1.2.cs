@@ -1,15 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace DikshyaShahi_Lab1_
 {
     internal class LAb2
     {
-       /* static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.Write("Enter first number");
             int firstnum = Convert.ToInt32(Console.ReadLine());
@@ -22,6 +16,6 @@ namespace DikshyaShahi_Lab1_
            Console.WriteLine( $"Sum of three numbers is:{sum}");
             Console.ReadKey();
 
-        }*/
+        }
     }
 }

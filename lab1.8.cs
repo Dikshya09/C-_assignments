@@ -1,16 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace DikshyaShahi_Lab1_
 {
     internal class lab8
     {
         static void Main(string[] args)
         {
-
             Console.Write("Enter a String");
           string str=Console.ReadLine();
             string reversed = "";
